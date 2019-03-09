@@ -1,5 +1,5 @@
 # DCEL<br>
-<b>INPUT FORMAT: is that of Adjacency list<b><br><br>
+<b>INPUT FORMAT: is that of Adjacency list</b><br><br>
 
 1st line specifies number of vertices, v<br>
 2nd line number of edges, e<br>
