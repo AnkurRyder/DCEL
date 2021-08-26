@@ -18,7 +18,7 @@ For example, a Voronoi diagram is commonly represented by a DCEL inside a boundi
 Subsequent 'v' lines specifies vertices as space separated cordinate points.  
 Subsequent 'e' lines specifies edges as space separated verice name which they are connecting.  
 
-## TESTING 
+## DEMO 
 
 Use the sample data in the sample.data file to test it out!   
 
