@@ -15,8 +15,14 @@ For example, a Voronoi diagram is commonly represented by a DCEL inside a boundi
 
 1st line specifies number of vertices, v  
 2nd line number of edges, e  
-Subsequent 'v' lines specifies vertices as space seprated cordinate points.  
-Subsequent 'e' lines specifies edges as space seprated verice name which they are connecting.  
+Subsequent 'v' lines specifies vertices as space separated cordinate points.  
+Subsequent 'e' lines specifies edges as space separated verice name which they are connecting.  
+
+## DEMO 
+
+Use the sample data in the sample.data file to test it out!   
+
+    bash> ./a.out < sample.data 
 
 ## Contributing
 
